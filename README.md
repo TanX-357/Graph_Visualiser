@@ -1,2 +1,2 @@
 # Graph_Visualiser
-Used for visualizing how graph algorithms like bfs , dfs work.
+A wonderful tool for visualizing how graph algorithms like breadth for search,depth for search and the concept of articulation points work in real time.
